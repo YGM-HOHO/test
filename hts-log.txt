@@ -1,0 +1,22 @@
+HTTrack3.49-5 launched on Wed, 13 Nov 2024 14:28:56 at https://massarservice.men.gov.ma/moutamadris/Account
+(httrack https://massarservice.men.gov.ma/moutamadris/Account -O /home/ygm/Videos )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:29:23	Error: 	"Not Found" (404) at link https://massarservice.men.gov.ma/moutamadris/assets/img/favicon/ms-icon-144x144.png (from https://massarservice.men.gov.ma/moutamadris/Account)
+14:31:35	Error: 	"Not Found" (404) at link https://massarservice.men.gov.ma/moutamadris/img/boxed-bg.jpg (from https://massarservice.men.gov.ma/moutamadris/Content/css-rtl?v=MF3NswnQ5ZKHw3FS4JMsmVWfTyn4TbWNboksCj_czdU1)
+14:31:35	Error: 	"Not Found" (404) at link https://massarservice.men.gov.ma/moutamadris/ScriptsIntegration/assets/css/mCSB_buttons.png (from https://massarservice.men.gov.ma/moutamadris/ScriptsIntegration/assets/css/styles.css)
+14:31:36	Error: 	"Not Found" (404) at link https://massarservice.men.gov.ma/moutamadris/ScriptsIntegration/assets/img/bg-game.svg (from https://massarservice.men.gov.ma/moutamadris/ScriptsIntegration/assets/css/styles.css)
+14:31:36	Error: 	"Not Found" (404) at link https://massarservice.men.gov.ma/moutamadris/ScriptsIntegration/assets/img/bg-para.svg (from https://massarservice.men.gov.ma/moutamadris/ScriptsIntegration/assets/css/styles.css)
+14:31:36	Error: 	"Not Found" (404) at link https://massarservice.men.gov.ma/moutamadris/ScriptsIntegration/assets/img/icon-arc-game.svg (from https://massarservice.men.gov.ma/moutamadris/ScriptsIntegration/assets/css/styles.css)
+14:31:36	Error: 	"Not Found" (404) at link https://massarservice.men.gov.ma/moutamadris/ScriptsIntegration/assets/img/icon-chess-game.svg (from https://massarservice.men.gov.ma/moutamadris/ScriptsIntegration/assets/css/styles.css)
+14:31:36	Error: 	"Not Found" (404) at link https://massarservice.men.gov.ma/moutamadris/ScriptsIntegration/assets/img/icon-arcade-game.svg (from https://massarservice.men.gov.ma/moutamadris/ScriptsIntegration/assets/css/styles.css)
+14:31:36	Error: 	"Not Found" (404) at link https://massarservice.men.gov.ma/moutamadris/ScriptsIntegration/assets/img/icon-kids-game.svg (from https://massarservice.men.gov.ma/moutamadris/ScriptsIntegration/assets/css/styles.css)
+14:31:36	Error: 	"Not Found" (404) at link https://massarservice.men.gov.ma/moutamadris/ScriptsIntegration/assets/img/icon-kids-animation.svg (from https://massarservice.men.gov.ma/moutamadris/ScriptsIntegration/assets/css/styles.css)
+14:31:36	Error: 	"Not Found" (404) at link https://massarservice.men.gov.ma/moutamadris/ScriptsIntegration/assets/css/assets/img/icon-notif.svg (from https://massarservice.men.gov.ma/moutamadris/ScriptsIntegration/assets/css/styles.css)
+
+HTTrack Website Copier/3.49-5 mirror complete in 2 minutes 40 seconds : 154 links scanned, 142 files written (4457113 bytes overall) [3013368 bytes received at 18833 bytes/sec], 1997483 bytes transferred using HTTP compression in 29 files, ratio 24%
+(11 errors, 0 warnings, 0 messages)
